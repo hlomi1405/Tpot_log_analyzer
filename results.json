@@ -1,0 +1,17 @@
+{
+  "analysis_date": "2026-09-12",
+  "total_logs": 5000,
+  "top_attacker_ips": [
+    {"ip": "45.33.32.156", "count": 842},
+    {"ip": "192.241.236.109", "count": 631}
+  ],
+  "top_ports": [
+    {"port": 22, "count": 2105},
+    {"port": 23, "count": 1234}
+  ],
+  "honeypots": {
+    "cowrie": 2105,
+    "dionaea": 876
+  },
+  "status": "Analysis completed"
+}
